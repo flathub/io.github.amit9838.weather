@@ -1,5 +1,5 @@
 {
-    "app-id" : "io.github.amit9838.weather",
+    "app-id" : "io.github.amit9838.mousam",
     "runtime" : "org.gnome.Platform",
     "runtime-version" : "45",
     "sdk" : "org.gnome.Sdk",
@@ -31,8 +31,7 @@
             "sources" : [
                 {
                     "type" : "git",
-                    "tag"  : "v1.0.1",
-                    "commit" : "d7239da17cc280992eff178b8ce8d0cc10f813ad",
+                    "commit" : "0e2a054077a3b33d90472459efdb973828f4c3d6",
                     "url" : "https://github.com/amit9838/weather.git"
                 }
             ]
