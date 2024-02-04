@@ -1,5 +1,5 @@
 {
-    "app-id" : "io.github.amit9838.mousam",
+    "app-id" : "io.github.amit9838.weather",
     "runtime" : "org.gnome.Platform",
     "runtime-version" : "45",
     "sdk" : "org.gnome.Sdk",
