@@ -31,8 +31,7 @@
             "sources" : [
                 {
                     "type" : "git",
-                    "tag"  : "v1.0.1",
-                    "commit" : "d7239da17cc280992eff178b8ce8d0cc10f813ad",
+                    "commit" : "79684adea608099675f0c6c5e26fc0f5f71ecd4a",
                     "url" : "https://github.com/amit9838/weather.git"
                 }
             ]
